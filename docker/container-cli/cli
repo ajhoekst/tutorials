@@ -1,9 +1,0 @@
-#!/bin/bash
-
-docker run \
-    --interactive \
-    --tty \
-    --rm \
-    --name cli \
-    --volume `pwd`/container-cli:/opt/container-cli \
-    cli-img "$@"

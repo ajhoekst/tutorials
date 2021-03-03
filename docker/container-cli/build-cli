@@ -1,6 +1,0 @@
-#!/bin/bash
-
-docker build \
-    --tag cli-img \
-    --file Dockerfile \
-    .
