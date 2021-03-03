@@ -1,5 +1,5 @@
 # Purpose
-The Python community is great! There are many packages you can import into your code to develop faster. This demonstrates how packages from others can make fetching data from the web easy.
+The Python community is great! There are many packages you can import into your code to develop faster. This demonstrates how packages made by others can make fetching data from the web easy.
 
 # To Run
 ```

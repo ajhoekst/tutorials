@@ -1,5 +1,5 @@
 # Purpose
-Programs are boring when they only do one thing. Let's add the ability to change the program's behavior with program arguments! Note: we've changed the output to print the HTTP response headers so we know the program is running differently.
+Programs are boring when they only do one thing. Let's add the ability to change the program's behavior with program arguments! Note: we've changed the output to print the HTTP response headers so we can see different output.
 
 # To Run
 ```
